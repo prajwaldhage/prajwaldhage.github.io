@@ -1,4 +1,4 @@
-import { _ as _page } from '../../chunks/spotfilm_D76NQgQ3.mjs';
+import { _ as _page } from '../../chunks/spotfilm_DjlR_CeR.mjs';
 export { renderers } from '../../renderers.mjs';
 
 const page = () => _page;

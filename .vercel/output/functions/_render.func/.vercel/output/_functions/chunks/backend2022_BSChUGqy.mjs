@@ -3,13 +3,13 @@ import { c as createComponent, r as renderTemplate, m as maybeRenderHead, u as u
 import 'kleur/colors';
 import 'clsx';
 
-const html = "";
+const html = "<p>will be updated soon</p>";
 
-				const frontmatter = {"title":"Linkedin","icon":"carbon:logo-linkedin","url":"https://www.linkedin.com/in/prajwaldhage/"};
-				const file = "/Users/prajwaldhage/Downloads/portfolio/src/pages/contact/linkedin.md";
-				const url = "/contact/linkedin";
+				const frontmatter = {"title":"will be updated soon","org":"will be updated soon","tags":"will be updated soon","url":"will be updated soon","date":"will be updated soon"};
+				const file = "/Users/prajwaldhage/Documents/Projects/portfolio/prajwaldhage.github.io/src/pages/certificates/backend2022.md";
+				const url = "/certificates/backend2022";
 				function rawContent() {
-					return "";
+					return "will be updated soon";
 				}
 				function compiledContent() {
 					return html;

@@ -5,9 +5,9 @@ import 'clsx';
 
 const html = "";
 
-				const frontmatter = {"title":"Diploma in Computer Engineering","location":"Pune, India","institute":"Ajeenkya DY Patil School of Engineering","date":"2022-2025","tags":["Diploma","Computer Engineering","Programming"]};
-				const file = "/Users/prajwaldhage/Downloads/portfolio/src/pages/studies/studie2.md";
-				const url = "/studies/studie2";
+				const frontmatter = {"title":"Discord","icon":"mdi:discord","url":"https://discordapp.com/users/prajwal.hub"};
+				const file = "/Users/prajwaldhage/Documents/Projects/portfolio/prajwaldhage.github.io/src/pages/contact/discord.md";
+				const url = "/contact/discord";
 				function rawContent() {
 					return "";
 				}

@@ -5,9 +5,9 @@ import 'clsx';
 
 const html = "";
 
-				const frontmatter = {"title":"Discord","icon":"mdi:discord","url":"https://discordapp.com/users/prajwal.hub"};
-				const file = "/Users/prajwaldhage/Downloads/portfolio/src/pages/contact/discord.md";
-				const url = "/contact/discord";
+				const frontmatter = {"title":"Telegram","icon":"mdi:telegram","url":"https://t.me/psdhage"};
+				const file = "/Users/prajwaldhage/Documents/Projects/portfolio/prajwaldhage.github.io/src/pages/contact/telegram.md";
+				const url = "/contact/telegram";
 				function rawContent() {
 					return "";
 				}

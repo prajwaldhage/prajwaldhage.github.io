@@ -3,13 +3,13 @@ import { c as createComponent, r as renderTemplate, m as maybeRenderHead, u as u
 import 'kleur/colors';
 import 'clsx';
 
-const html = "";
+const html = "<p>This was my 1st overwhelming project. Never thought could make it! and completed it during my semester exams! Dont ask me about my Results :)</p>";
 
-				const frontmatter = {"title":"Telegram","icon":"mdi:telegram","url":"https://t.me/psdhage"};
-				const file = "/Users/prajwaldhage/Downloads/portfolio/src/pages/contact/telegram.md";
-				const url = "/contact/telegram";
+				const frontmatter = {"title":"Running Macintosh Sequoia on my HP Laptop","date":"12/2024 - Present","url":"will be updated soon","url_name":"will be updated soon"};
+				const file = "/Users/prajwaldhage/Documents/Projects/portfolio/prajwaldhage.github.io/src/pages/blogs/home-mmouzo.md";
+				const url = "/blogs/home-mmouzo";
 				function rawContent() {
-					return "";
+					return "\nThis was my 1st overwhelming project. Never thought could make it! and completed it during my semester exams! Dont ask me about my Results :)\n";
 				}
 				function compiledContent() {
 					return html;

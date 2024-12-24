@@ -1,4 +1,4 @@
-import { _ as _page } from '../../chunks/linkedin_BkZE7lcd.mjs';
+import { _ as _page } from '../../chunks/linkedin_DkaCBXLM.mjs';
 export { renderers } from '../../renderers.mjs';
 
 const page = () => _page;

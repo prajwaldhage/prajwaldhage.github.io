@@ -5,9 +5,9 @@ import 'clsx';
 
 const html = "";
 
-				const frontmatter = {"title":"Computer Science (In Progress)","location":"Remote","url":"https://cs.ossu.dev/","institute":"OSSU (Open Source Society University)","date":"2025 - Present","tags":["Computer Science","Programming","Project Design","CS Tools"]};
-				const file = "/Users/prajwaldhage/Downloads/portfolio/src/pages/studies/studie1.md";
-				const url = "/studies/studie1";
+				const frontmatter = {"title":"Linkedin","icon":"carbon:logo-linkedin","url":"https://www.linkedin.com/in/prajwaldhage/"};
+				const file = "/Users/prajwaldhage/Documents/Projects/portfolio/prajwaldhage.github.io/src/pages/contact/linkedin.md";
+				const url = "/contact/linkedin";
 				function rawContent() {
 					return "";
 				}

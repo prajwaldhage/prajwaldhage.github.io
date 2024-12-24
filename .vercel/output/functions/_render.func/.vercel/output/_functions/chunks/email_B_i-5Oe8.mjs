@@ -5,9 +5,9 @@ import 'clsx';
 
 const html = "";
 
-				const frontmatter = {"title":"Github","icon":"carbon:logo-github","url":"httpa://github.com/prajwaldhage"};
-				const file = "/Users/prajwaldhage/Downloads/portfolio/src/pages/contact/github.md";
-				const url = "/contact/github";
+				const frontmatter = {"title":"Email","icon":"carbon:email","url":"mailto:prajwaldhage@icloud.com"};
+				const file = "/Users/prajwaldhage/Documents/Projects/portfolio/prajwaldhage.github.io/src/pages/contact/email.md";
+				const url = "/contact/email";
 				function rawContent() {
 					return "";
 				}

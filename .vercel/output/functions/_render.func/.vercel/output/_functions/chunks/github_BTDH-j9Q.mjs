@@ -3,13 +3,13 @@ import { c as createComponent, r as renderTemplate, m as maybeRenderHead, u as u
 import 'kleur/colors';
 import 'clsx';
 
-const html = "<p>will be updated soon</p>";
+const html = "";
 
-				const frontmatter = {"title":"will be updated soon","org":"will be updated soon","tags":"will be updated soon","url":"will be updated soon","date":"will be updated soon"};
-				const file = "/Users/prajwaldhage/Downloads/portfolio/src/pages/certificates/backend2022.md";
-				const url = "/certificates/backend2022";
+				const frontmatter = {"title":"Github","icon":"carbon:logo-github","url":"httpa://github.com/prajwaldhage"};
+				const file = "/Users/prajwaldhage/Documents/Projects/portfolio/prajwaldhage.github.io/src/pages/contact/github.md";
+				const url = "/contact/github";
 				function rawContent() {
-					return "will be updated soon";
+					return "";
 				}
 				function compiledContent() {
 					return html;
