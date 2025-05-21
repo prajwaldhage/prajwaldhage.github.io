@@ -15,3 +15,11 @@ Welcome to my personal portfolio! This website is built using Astro.js, a modern
 - Tailwind CSS (optional) – For utility-first CSS styling (if used).
 - Markdown – Used for writing content (if applicable).
 - Node.js – JavaScript runtime environment used to run the build process.
+
+## Screenshots
+
+- Light Theme
+![Light Theme Portfolio](public/light.png)
+
+- Dark Theme
+![Dark Theme](public/dark.png)
